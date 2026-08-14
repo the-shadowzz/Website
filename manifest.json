@@ -1,0 +1,19 @@
+{
+  "name": "Kage TV",
+  "short_name": "Kage TV",
+  "description": "Kage TV is your destination for discovering and enjoying anime in one place. Explore popular series, new releases, and hidden gems across different genres.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#0a0014",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon",
+      "purpose": "any maskable"
+    }
+  ]
+}
